@@ -49,7 +49,7 @@ class _MyHomePageState extends State<MyHomePage> {
             ),
             SvgPicture.asset(
               'assets/icons/tiger.usvg.svg',
-              height: 500,
+              height: 250,
               fit: BoxFit.contain,
             ),
             // Test case 2: Here things start to break. 
